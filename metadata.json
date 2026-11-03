@@ -1,0 +1,10 @@
+{
+  "name": "Remix Epcee - Easy PractiCe English",
+  "description": "Aplikasi latihan berbicara Bahasa Inggris SMK Fase E (TJKT \u0026 DPIB) 100% offline dengan evaluasi pengucapan kata demi kata, roleplay simulasi kerja, kuis diagnostik \u0026 final.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
